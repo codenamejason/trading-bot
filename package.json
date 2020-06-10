@@ -1,7 +1,12 @@
 {
   "name": "trading-bot",
   "version": "0.3.0",
-  "description": "Steal My Cryptocurrency Trading Bot!",
+  "description": "Trading Bot",
+  "author": {
+    "name": "Jason Romero & Gregory",
+    "email": "jaxcoder@outlook.com",
+    "url": "https://github.com/codenamejason/trading-bot.git"
+  },
   "engines": {
     "node": "10.x"
   },
